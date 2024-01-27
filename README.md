@@ -14,3 +14,7 @@ See the following links below:
 ![Blog Posts Screenshot](blogPosts.png)
 ![Blog Likes Screenshot](blogLikes.png)
 ![Blog Comments Screenshot](blogComments.png)
+
+### Exercise 2:
+
+![MySQL Screenshot](mysql screenshot.png)
