@@ -17,4 +17,4 @@ See the following links below:
 
 ### Exercise 2:
 
-![MySQL Screenshot](mysql screenshot.png)
+![MySQL Screenshot](MySQLscreenshot.png)
