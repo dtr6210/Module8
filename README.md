@@ -15,6 +15,6 @@ See the following links below:
 ![Blog Likes Screenshot](blogLikes.png)
 ![Blog Comments Screenshot](blogComments.png)
 
-### Exercise 2:
+### Exercise 3:
 
 ![MySQL Screenshot](MySQLscreenshot.png)
