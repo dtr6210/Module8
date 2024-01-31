@@ -18,3 +18,8 @@ See the following links below:
 ### Exercise 3:
 
 ![MySQL Screenshot](MySQLscreenshot.png)
+
+
+### Exercise 4:
+
+![Redis Screenshot](redis.png)
